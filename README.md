@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//ElizabetePluGgui)](https://www.linkedin.com/in/elizabete-fabri-a0927819b/)
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@/ElizabetePluGgui.com.br)](mailto:elizabete958@gmail.com)
 
-<img align="left" alt="ORIGAMID" width="26px" src="https://www.origamid.com/apple-touch-icon.png"
+<img align="left" alt="ORIGAMID" width="26px" src="https://www.origamid.com/apple-touch-icon.png" />
 
 # Origamid-Cursos
 
